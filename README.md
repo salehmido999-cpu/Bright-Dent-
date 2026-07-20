@@ -29,11 +29,3 @@ npm run server
 # تشغيل التطبيق
 npm start
 ```
-
-## الهيكل
-
-```
-├── client/          # تطبيق React
-├── server/          # خادم Node.js
-└── database/        # ملفات قاعدة البيانات
-```
